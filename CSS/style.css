@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    background-color: bisque;
+    background-image: linear-gradient(to left, #f5f5f5, rgba(233, 91, 91));
+    display: flex;
+    justify-content: space-between;
+    height: 15vh;
+    padding: 0 20px;    
+}
+.footer {
+    width:  100%;
+    background-color: blanchedalmond;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
